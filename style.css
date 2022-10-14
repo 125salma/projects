@@ -203,7 +203,7 @@ h2{
       -------------------- */
     .icon{
        display: flex;
-       margin-left: 150px;
+       margin-left: 190px;
     }
     .icons{
       margin-right: 14px;
@@ -324,7 +324,7 @@ h2{
         icon style
       -------------------- */
     .icon{
-       margin-left: 40px;
+       margin-left: 70px;
     }
     /* ----------------------
            footer style
@@ -439,7 +439,7 @@ h2{
           icon style
         -------------------- */
       .icon{
-         margin-left: 50px;
+         margin-left: 80px;
       }
     
     }
@@ -558,17 +558,16 @@ h2{
                   icon style
               --------------------- */
         .icon{
-              margin-left: 80px;   
+              margin-left: 100px;   
         }
             /* ----------------------
                     footer style
               --------------------- */
         footer p{
               margin-left: 25px;
-        }
-
-       
+        } 
       }
+          
           
   
   
